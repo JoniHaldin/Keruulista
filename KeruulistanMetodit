@@ -1,2 +1,5 @@
 tilausHaku{hakusana/tagi} //Tällä voidaan hakea/suodattaa tilauksia.
-tilausAvaa{} //Hakee tilauksen tiedot ja osoitta ne
+tilausAvaa{} //Hakee tilauksen tiedot ja osoitta ne.
+tilausPaivita{} //Päivittää tilauksen tiedot ja lähettää ne tietokantaan.
+tilausPaata{} //Päättää tilauksen ja lähettää varmistuksen.
+
