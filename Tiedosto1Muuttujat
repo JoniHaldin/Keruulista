@@ -1,6 +1,6 @@
 tilausNumero 
 asiakasNumero 
-nimi 
+asiakasNimi 
 laskutusOsoite 
 toimitusOsoite 
 toimitusPaiva 
@@ -9,6 +9,6 @@ tilatut_Tuotteet
 
 Tuotekoodi
 Tuotteen_kuvaus 
-toimittaja_koodi
+toimittajakoodi
 kappalemaara 
 hyllypaikka
