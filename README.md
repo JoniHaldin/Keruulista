@@ -1,3 +1,4 @@
 # Keruulista
 
-projektin henkilöt ja heidän roolinsa, käytettävät tekniikat perustiedot.
+Miska Laitalainen. Koodaaja. Elämän kova koulu.
+Topias Mäki. Koodaaja. Koodikoulu.
