@@ -1,0 +1,14 @@
+tilausNumero //Tilauksen numero
+asiakasNumero //Asiakkaan numero
+asiakasNimi //Asiakkaan nimi
+laskutusOsoite //Laskutus osoite
+toimitusOsoite //Toimitus osoite
+toimitusPaiva //Toimitus päivä
+vastuumyyja //Myyjä
+tilatut_Tuotteet //Tilatut tuotteet
+
+Tuotekoodi //Tuotteen koodi
+Tuotteen_kuvaus //Tuotteen kuvaus
+toimittajaKoodi //Toimittajan koodi
+kappalemaara //Tilattumäärä
+hyllypaikka //Tuotteen sijainti
