@@ -1,0 +1,5 @@
+kayttajaNimi //Käyttäjän nimi.
+kayttajaSalasana //Käyttäjän salasana.
+kirjauduSisaan() //Sisään kirjautumis funktio.
+salasanaPyynto() //Voi pyytää apua salasanalle jos unohtanut.
+kirjauduTurva() //Estää 3 yrityksen jälkeen kirjautumisen hetkeksi ja kirjaa ylös tiedot
